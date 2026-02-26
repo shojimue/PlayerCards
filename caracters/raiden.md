@@ -1,4 +1,5 @@
 # персонаж - Райдэн
+<img width="234" height="216" alt="image" src="https://github.com/user-attachments/assets/292e167e-e9fa-4103-9c0f-b84007a1a3a6" />
 
 ### бог грома и умный челик
 
