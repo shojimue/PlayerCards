@@ -1,7 +1,8 @@
-# персонаж - Райдэн
-<img width="234" height="216" alt="image" src="https://github.com/user-attachments/assets/292e167e-e9fa-4103-9c0f-b84007a1a3a6" />
+# персонаж - витек плей
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d69a298c-1a9c-4bdf-b508-47959a557f77" />
 
-### бог грома и умный челик
+
+### гений ютуба и жесткий игрок к C.A.T.S и где инвалид на каляске ездит об шипы умирает
 
 ### характеристики 
 **сила** - 90
